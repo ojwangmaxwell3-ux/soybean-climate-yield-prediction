@@ -83,6 +83,12 @@ The models are evaluated using:
 | Ridge | 9.501811 | 125.721428 | 11.212557 | 0.010938 |
 | Lasso | 9.516283 | 125.900444 | 11.220537 | 0.009530 |
 
+## Model Performance Visualization
+
+The chart below compares the RMSE of the evaluated models. Lower RMSE indicates lower prediction error.
+
+![Model Performance Comparison](results/figures/model_performance_rmse.png)
+
 ## Project Structure
 
 ```text
