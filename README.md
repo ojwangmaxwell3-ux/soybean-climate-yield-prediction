@@ -110,6 +110,30 @@ notebooks/soybean analysis.ipynb
 
 The notebook contains data preparation, feature engineering, time-series analysis, model development, forecasting, and model evaluation.
 
+## Setup and Usage
+
+Clone the repository and install the required dependencies:
+
+```bash
+git clone https://github.com/ojwangmaxwell3-ux/soybean-climate-yield-prediction.git
+cd soybean-climate-yield-prediction
+pip install -r requirements.txt
+```
+
+The main analysis notebook is located at:
+
+```text
+notebooks/soybean analysis.ipynb
+```
+
+Open the notebook using Jupyter Notebook or JupyterLab and run the cells sequentially.
+
+The raw dataset is stored in:
+
+```text
+data/raw/soybean_climate_large_test_dataset.csv
+```
+
 ## Technologies Used
 
 - Python
