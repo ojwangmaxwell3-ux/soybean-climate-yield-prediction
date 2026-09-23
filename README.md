@@ -8,6 +8,10 @@ The analysis uses monthly observations and combines time-series analysis, machin
 
 The main target variable is `Soybean_Yield`.
 
+## Project Objective
+
+The objective of this project is to develop and compare statistical, machine learning, and deep learning models for predicting soybean yield from historical climate and environmental conditions. The analysis examines how factors such as rainfall, temperature, humidity, soil moisture, drought stress, heat stress, and extreme weather relate to soybean yield and evaluates different forecasting approaches.
+
 ## Dataset
 
 The dataset contains 420 monthly observations and 11 columns:
