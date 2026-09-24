@@ -157,6 +157,6 @@ data/raw/soybean_climate_large_test_dataset.csv
 
 ## Author
 
-**Maxwel Odhiambo**
+**Maxwell Odhiambo**
 
 Actuarial Science Student | Data Science & Artificial Intelligence
